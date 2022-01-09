@@ -1,0 +1,36 @@
+.border1 {
+    border: 2px;
+    border-style: solid;
+    color: black;
+    width: 40%;
+    height: 770px;
+    margin-left: 30%;
+}
+
+
+p{
+    text-align: center;
+    color: black;
+}
+
+.asterics{
+    font-size: 30px;
+}
+h1{
+    color: black;
+    text-align: center;
+    margin-top: -20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.paragraph{
+    text-align: justify;
+    margin-top: 60px;
+    
+}
+#para::first-letter{
+    
+    font-size: 40px;
+}
+hr{
+    width: 50%;
+}
